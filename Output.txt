@@ -1,0 +1,12 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=54146:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/Alex/IdeaProjects/siloed/out/production/untitled104 Main
+
+The total volume of water in the town is 183032.19 cubic meters
+
+The average monthly consumption of the town is 259264.33 cubic meters
+
+the amount of water that must be saved to get thruogh the 28 days is 76232.14 cubic meters
+
+this translates to 0.072 cubic meters per person per day, or 19.11 gallons, which 
+must be saved in order to get through the 28 days
+
+Process finished with exit code 0
